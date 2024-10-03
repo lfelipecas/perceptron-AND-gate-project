@@ -1,7 +1,7 @@
 # Perceptron AND Gate Exercise
 
 ## Description
-This project demonstrates how to train a simple perceptron to replicate the logic of an AND gate using Python 3.919, numpy and matplotlib. The notebook walks through data preparation, model definition, training, and visualization.
+This project demonstrates how to train a simple perceptron to replicate the logic of an AND gate using Python 3.9.19, numpy and matplotlib. The notebook walks through data preparation, model definition, training, and visualization.
 
 ## Project Structure
 - `.gitignore`: This file prevents temporary files, Python cache files, environment folders (venv), and other system-generated files from being included in your Git repository.

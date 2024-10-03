@@ -1,7 +1,7 @@
 # Perceptron AND Gate Project
 
 ## Description
-This project demonstrates how to train a simple perceptron to replicate the logic of an AND gate using Python and scikit-learn. The notebook walks through data preparation, model definition, training, and visualization.
+This project demonstrates how to train a simple perceptron to replicate the logic of an AND gate using Python 3.919, numpy and matplotlib. The notebook walks through data preparation, model definition, training, and visualization.
 
 ## Project Structure
 - `Perceptron_AND_Project.ipynb`: The main notebook that contains all code for defining, training, and visualizing the perceptron.

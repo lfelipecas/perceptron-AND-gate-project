@@ -26,7 +26,7 @@ git clone https://github.com/lfelipecas/perceptron-AND-gate-project
 pip install -r requirements.txt
 ```
 
-3. Launch Jupyter Notebook and open `Perceptron_AND_Project.ipynb`:
+3. Launch Jupyter Notebook and open `Basic_Perceptron_AND_Exercise.ipynb`:
 
 
 ## Author
